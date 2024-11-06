@@ -31,4 +31,4 @@ There are three essential files, the `index.html`, `style.css`, and `index.js`.
 
 As this is going to be a JavaScript reboot, you should be able to make **EVERYTHING** work by changing only the `index.js` file.
 
-When you are ready, click into [01-definition-api](https://github.com/AshIgnYeo/reboot/tree/main/01-definition-api) and get started! 🚀
+When you are ready, click into [01-definition-api](https://github.com/AshIgnYeo/javascript-reboot/tree/main/01-dictionary) and get started! 🚀

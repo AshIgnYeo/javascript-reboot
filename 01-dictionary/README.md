@@ -1,5 +1,7 @@
 # JavaScript Reboot
 
+## Dictionary
+
 Run the following commands to begin the first challenge
 
 ```shell
@@ -49,3 +51,7 @@ How would we break this down into micro steps?
 **2. User sees the result on the page**
 
 - Since I can get back what I want, how do I update the html with the data I get back?
+
+## Completed?
+
+Once you are satisfied with what you have done, navigate to the second challenge folder and follow the instructions there!
