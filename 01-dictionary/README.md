@@ -36,9 +36,11 @@ When dealing with a challenge like this, let's think of what happens first.
 So it's a 3 step process for them. It might be more for us, but let's see if there's anything we can do for each step.
 
 **1. User will type something in**
+
 There isn't really much for us to do now, just need to take note of **where** the user is inputting his text.
 
 **2. User submits the form**
+
 Now this is something we can test.
 How would we break this down into micro steps?
 
