@@ -16,6 +16,7 @@ serve
 ```
 
 ## Objectives
+
 ![challenge-01](https://github.com/user-attachments/assets/c058ed19-1cbc-4b37-aede-d169be7052e5)
 
 For this part of the challenge we basically want to run the exact same challenge as yesterday. _Easy right_? But `ids` and `selectors` have changed, positions have shifted. Can you understand the context of what is going on and apply the right knowledge?

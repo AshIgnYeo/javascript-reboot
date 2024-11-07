@@ -20,12 +20,21 @@ serve
 
 ## Objectives
 
-soon soon
+For this challenge, we want to add on the functionality of the virtual keyboard. Useful for when users have a faulty keyboard from spilling coffee on it.
+
+Users can now use both their native keyboard or the onscreen keyboard to add text to the input.
 
 ## Specs
 
-soon soon
+This seems simple enough, and it is. It should be the quickest challenge in this set.
 
-#### User Flow
+Some thoughts that we should have moving in.
 
-soon soon
+1. Can I show something in the console when I click on any of the keys?
+2. Now that I can react to it, can I actually show the key that I pressed?
+   > _you should use the [dataset](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/dataset) property_
+3. I can now capture the key that the user selects, but where does it go? Do I need to get anything new from the DOM?
+4. append... append...
+5. ⚠️ Referencing the example, moving between the keyboard and the virtual keyboard should be a seamless process. see [Element Focus](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/focus).
+
+Good luck :rocket:

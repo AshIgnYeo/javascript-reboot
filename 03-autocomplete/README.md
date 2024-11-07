@@ -9,7 +9,7 @@ Run the following commands to begin the first challenge
 cd ~/code/javascript-reboot/03-autocomplete/
 
 # copy your previous js file over
-cp ../01-dictionary/index.js .
+cp ../02-virtual-keyboard/index.js .
 
 # open up the challenge folder in VS code
 code .
