@@ -20,6 +20,9 @@ serve
 
 ## Objectives
 
+![challenge-02](https://github.com/user-attachments/assets/b948425a-1534-4208-8528-edfe0383ebaf)
+
+
 For this challenge, we want to add on the functionality of the virtual keyboard. Useful for when users have a faulty keyboard from spilling coffee on it.
 
 Users can now use both their native keyboard or the onscreen keyboard to add text to the input.
