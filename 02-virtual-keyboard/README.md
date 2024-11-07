@@ -6,7 +6,7 @@ Run the following commands to begin the first challenge
 
 ```shell
 # navigate to the first folder
-mkdir -p ~/code/javascript-reboot/02-virtual-keyboard/
+cd ~/code/javascript-reboot/02-virtual-keyboard/
 
 # copy your previous js file over
 cp ../01-dictionary/index.js .

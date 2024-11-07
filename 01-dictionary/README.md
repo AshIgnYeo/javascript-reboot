@@ -6,7 +6,7 @@ Run the following commands to begin the first challenge
 
 ```shell
 # navigate to the first folder
-mkdir -p ~/code/javascript-reboot/01-dictionary/
+cd ~/code/javascript-reboot/01-dictionary/
 
 # open up the challenge folder in VS code
 code .
