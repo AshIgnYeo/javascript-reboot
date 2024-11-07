@@ -20,6 +20,8 @@ serve
 
 ## Objectives
 
+![challenge-03](https://github.com/user-attachments/assets/a39f620e-8705-4364-99b6-2d37a7dc2052)
+
 This will be the longest challenge today. Since the rest were so easy. :angry:
 
 There are 2 halves to this. The first one, getting the autocomplete should be relatively simple. It is basically the same as yesterday.
